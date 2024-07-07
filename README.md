@@ -1,51 +1,56 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Roadmap - Área de Desenvolvimento de Sistemas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Com ajuda da tecnologia de IA. generativas, foi desenvolvido um roadmap, ou roteiro, composto de sugestões fornecidas por estas tecnologias.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Chat.GPT 3.5
+- Copilot
+- Bard
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi requirido as principais tecnologias de IA interativas disponíveis gratuitamente o seguinte comando "faça um roadmap para iniciar na área de  desenvolvimento de  sistemas"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A resposta mais coerente, para mim, foi a resposta dada pelo Chat.GPT 3.5 que construiu um roteiro equilibrado que abrange diversas áreas que compõe a função de um desenvolvedor de sistemas
+
+1. Fundamentos Básicos
+- Linguagens de Programação: Escolha uma linguagem popular para começar, como Python, JavaScript, Java ou C#. Recomenda-se aprender a sintaxe básica, estruturas de controle e tipos de dados.
+- Algoritmos e Estruturas de Dados: Estude algoritmos comuns (busca, ordenação, etc.) e estruturas de dados (listas, pilhas, filas, árvores, etc.), pois são fundamentais para resolver problemas de maneira eficiente.
+- Bancos de Dados: Aprenda o básico sobre bancos de dados relacionais (SQL) e não relacionais (NoSQL).
+
+2. Desenvolvimento Web
+- HTML/CSS: Familiarize-se com a estrutura e estilização de páginas web.
+- JavaScript: Aprimore suas habilidades para manipulação de elementos na página e interações com o usuário.
+- Frameworks: Escolha um framework como React (JavaScript), Angular (JavaScript/TypeScript) ou Vue.js (JavaScript) para desenvolvimento front-end. Para o back-end, considere Node.js (JavaScript), Django (Python), Spring Boot (Java) ou ASP.NET Core (C#).
+
+3. Desenvolvimento de Aplicativos
+- Mobile (opcional): Se estiver interessado em desenvolvimento de aplicativos móveis, aprenda Swift (iOS), Kotlin (Android) ou Flutter (cross-platform).
+
+4. Ferramentas e Práticas de Desenvolvimento
+- Controle de Versão: Aprenda Git e utilize plataformas como GitHub ou GitLab.
+- IDEs e Ferramentas de Desenvolvimento: Escolha uma IDE como VS Code, IntelliJ IDEA, Eclipse ou Visual Studio.
+- Testes e Depuração: Familiarize-se com testes unitários, integração contínua e técnicas de depuração.
+
+5. Aprofundamento e Especialização
+- Frameworks e Bibliotecas: Explore mais profundamente os frameworks relevantes para sua área de interesse.
+- Segurança: Entenda conceitos básicos de segurança da informação e desenvolvimento seguro.
+- Padrões de Projeto: Estude padrões comuns de design de software (por exemplo, MVC, MVVM) para escrever código mais limpo e organizado.
+
+6. Construção de Portfólio e Networking
+- Projetos pessoais: Desenvolva projetos próprios para aplicar o que aprendeu e demonstrar suas habilidades.
+- Contribuições open-source: Participe de projetos open-source para ganhar experiência prática e visibilidade.
+- Network: Conecte-se com profissionais da área através de eventos, conferências, meetups ou redes sociais como LinkedIn.
+
+7. Educação Contínua
+
+- Mantenha-se atualizado: A área de desenvolvimento está sempre evoluindo. Esteja disposto a aprender novas tecnologias e acompanhar as tendências do mercado.
+
+8. Busca por Oportunidades
+- Estágios ou projetos freelancers: Procure por estágios, trabalhos freelance ou projetos temporários para ganhar experiência profissional.
+- Entrevistas e processos seletivos: Prepare-se para entrevistas técnicas estudando algoritmos comuns, resolvendo problemas de programação e praticando comunicação eficaz.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
